@@ -10,8 +10,10 @@ Tensor-Neural_Net-Repo/
 ├── requirements.txt
 ├── requirements-dev.txt
 ├── src/
-        ── __init__.py
+│       │── __init__.py
 │       ├── model.py
 │       ├── train.py
 │       ├── predict.py
 │       └── data.py 
+
+```
