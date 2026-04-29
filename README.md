@@ -1,6 +1,6 @@
 # Tensor-Neural-Net-Repo
 
-This repo is for implementing tensor based neural networks primarily using the pytorch module.
+This repo is for implementing tensor based neural networks primarily using the pytorch module. The modules implemented begin from elementary and move on to more advanced.
 
 ```bash
 
